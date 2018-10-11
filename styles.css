@@ -15,7 +15,7 @@ time, mark, audio, video {
 	margin: 20;
 	padding: 40;
 	border: 10;
-	font-size: 100%;
+	font-size: 150%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -84,3 +84,8 @@ h3 {
     text-transform: uppercase;
     font-size: 200%;
 }
+ol,ul{
+	font-size: 150%;
+	color: black
+}
+.sub{font-size: 100%}
